@@ -4,7 +4,7 @@
 </script>
 
 <template>
-asdfasdfasdf
+
 </template>
 
 <style scoped>

@@ -4,7 +4,7 @@
 </script>
 
 <template>
-Hola
+
 </template>
 
 <style scoped>
